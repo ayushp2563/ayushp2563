@@ -1,27 +1,75 @@
-# 💫 About Me:
-Hi, I'm Ayush P. Prajapati! 👋<br>I'm a web developer who loves turning ideas into cool websites. I enjoy both creating the look of a site that you see and making sure everything works behind the scenes.<br><br>🚀 What I Love Doing<br>I build websites that look good and are easy to use. Whether it's making buttons click or creating new pages, I like making things on the internet awesome.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ayush-p-prajapati) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AYUSHP2563) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayushp2563&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayushp2563&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushp2563&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayushp2563&theme=nord&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayushp2563&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# Hi, I'm Ayush P. Prajapati 👋
+**Software Engineer | Full-Stack Web Developer**  
+📍 Sudbury, ON, Canada  
+🔗 [Portfolio](https://prajapatiayush.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/ayushp2563)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayushp2563&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+I am a results-driven Software Engineer specializing in building robust, scalable web applications and AI-integrated systems. With expertise spanning both frontend architecture and backend systems, I focus on turning complex technical challenges into seamless, high-performance user experiences. 
+
+* 🛠️ **Current Focus:** Advanced TypeScript applications and optimizing enterprise AI integrations.
+* ⚡ **Core Philosophy:** Writing clean, maintainable code and architecting for long-term scalability.
+
+---
+
+## 🛠️ Tech Stack & Ecosystem
+
+### **Frontend Architecture**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+### **Backend & Databases**
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **DevOps & Deployment**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C8B5?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+## 🎯 Featured Projects
+
+### 🧠 **Enterprise AI Integration**
+*An optimized AI workflow tool designed for enterprise applications.*
+* **Tech Stack:** Python, AI APIs, Backend Integration.
+* **Key Focus:** Building resilient data pipelines and optimizing response generation latency.
+
+### 📝 **Job Application Generator**
+*An automated tool that leverages tailored workflows to generate professional cover letters and resumes tailored to target job descriptions.*
+* **Tech Stack:** Python, Automation Scripts.
+* **Key Focus:** Text processing efficiency, dynamic template rendering, and localized formatting.
+
+### 🍁 **Canada PR Tracker**
+*A data-driven application tracking Canadian permanent residency milestones and pathways.*
+* **Tech Stack:** TypeScript, React, Modern State Management.
+* **Key Focus:** Type safety, dynamic user inputs, and highly interactive UI components.
+
+---
+
+## 📊 GitHub Performance
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushp2563&show_icons=true&theme=tokyonight" alt="Ayush's GitHub Stats" height="180px" />
+  <img src="https://github-readme-top-langs.vercel.app/api/?username=ayushp2563&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+## 📬 Let's Connect!
+I am always open to discussing full-stack engineering, open-source collaborations, and exciting innovative tech opportunities.
+
+* **LinkedIn:** [linkedin.com/in/ayushp2563](https://www.linkedin.com/in/ayushp2563)
+* **Portfolio:** [prajapatiayush.vercel.app](https://prajapatiayush.vercel.app/)
+* **Email:** [ayushprajapati2563@gmail.com]
