@@ -1,75 +1,226 @@
 # Hi, I'm Ayush P. Prajapati 👋
-**Software Engineer | Full-Stack Web Developer**  
-📍 Sudbury, ON, Canada  
-🔗 [Portfolio](https://prajapatiayush.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/ayushp2563)
+
+## Software Engineer | Full-Stack Developer | AI Application Engineer
+
+📍 Sudbury, Ontario, Canada  
+🎓 MSc Computational Sciences @ Laurentian University  
+🔗 Portfolio: https://prajapatiayush.vercel.app/  
+🔗 LinkedIn: https://www.linkedin.com/in/ayushp2563  
 
 ---
 
 ## 🚀 About Me
-I am a results-driven Software Engineer specializing in building robust, scalable web applications and AI-integrated systems. With expertise spanning both frontend architecture and backend systems, I focus on turning complex technical challenges into seamless, high-performance user experiences. 
 
-* 🛠️ **Current Focus:** Advanced TypeScript applications and optimizing enterprise AI integrations.
-* ⚡ **Core Philosophy:** Writing clean, maintainable code and architecting for long-term scalability.
+I am a Software Engineer specializing in **full-stack web development, AI-powered applications, and data-driven systems**.
+
+I build scalable applications using modern JavaScript/TypeScript ecosystems and integrate AI technologies such as LLMs, RAG pipelines, and machine learning workflows to solve real-world problems.
+
+My experience includes building production-ready web applications, AI agents, automation tools, and cloud-based platforms with a focus on clean architecture, performance optimization, and excellent user experiences.
+
+Currently pursuing my **Master of Science in Computational Sciences at Laurentian University**, focusing on Artificial Intelligence, Machine Learning, Data Mining, and High Performance Computing.
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## 💼 Experience
 
-### **Frontend Architecture**
+### Frontend Developer Intern  
+**Kintu Designs Pvt. Ltd.** | 2023 - 2024
+
+- Developed responsive and reusable React components for production web applications.
+- Built modern user interfaces using React, Tailwind CSS, and JavaScript ecosystems.
+- Implemented dashboards, data visualizations, and Progressive Web Application features.
+- Improved application performance through optimized rendering and component architecture.
+
+---
+
+# 🛠️ Technical Skills
+
+## Frontend Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn/UI-black?style=for-the-badge)
 
-### **Backend & Databases**
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+---
+
+## Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### **DevOps & Deployment**
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C8B5?style=for-the-badge&logo=netlify&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
 ---
 
-## 🎯 Featured Projects
+## AI & Machine Learning
 
-### 🧠 **Enterprise AI Integration**
-*An optimized AI workflow tool designed for enterprise applications.*
-* **Tech Stack:** Python, AI APIs, Backend Integration.
-* **Key Focus:** Building resilient data pipelines and optimizing response generation latency.
-
-### 📝 **Job Application Generator**
-*An automated tool that leverages tailored workflows to generate professional cover letters and resumes tailored to target job descriptions.*
-* **Tech Stack:** Python, Automation Scripts.
-* **Key Focus:** Text processing efficiency, dynamic template rendering, and localized formatting.
-
-### 🍁 **Canada PR Tracker**
-*A data-driven application tracking Canadian permanent residency milestones and pathways.*
-* **Tech Stack:** TypeScript, React, Modern State Management.
-* **Key Focus:** Type safety, dynamic user inputs, and highly interactive UI components.
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![OpenAI API](https://img.shields.io/badge/LLM_APIs-black?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Performance
+## Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Job Application Generator
+
+An AI-powered resume and cover letter generation platform that uses LLM workflows to create customized applications based on job descriptions.
+
+**Tech Stack:**
+`Python` `LangChain` `Groq Cloud` `Streamlit` `Neon DB`
+
+**Highlights:**
+- Designed AI workflows for personalized resume generation.
+- Implemented prompt engineering techniques for better document quality.
+- Reduced manual application preparation time through automation.
+
+🔗 GitHub: https://github.com/ayushp2563/job-application-generator  
+🌐 Live Demo: https://job-application-generator.streamlit.app/
+
+---
+
+## 🍁 Canada PR Chatbot
+
+An AI-powered immigration assistant using Retrieval-Augmented Generation (RAG) to answer Canadian immigration-related queries.
+
+**Tech Stack:**
+`Next.js` `TypeScript` `LangChain` `OpenAI API` `Tailwind CSS`
+
+**Highlights:**
+- Built semantic search pipeline over immigration documentation.
+- Implemented conversational AI workflows.
+- Designed an interactive chatbot interface.
+
+🔗 GitHub:
+https://github.com/ayushp2563/canadapr
+
+---
+
+## 🧠 Enterprise AI Platform
+
+A machine learning platform designed for automating business workflows through AI-powered processing pipelines.
+
+**Tech Stack:**
+`Python` `FastAPI` `PyTorch` `Docker` `React`
+
+**Highlights:**
+- Built backend APIs for AI-powered workflows.
+- Designed scalable ML processing architecture.
+- Integrated frontend and backend services.
+
+🔗 GitHub:
+https://github.com/ayushp2563/enterprise_ai
+
+---
+
+## 💰 Salary Tracker
+
+A financial tracking application designed for managing salary information and earning history.
+
+**Tech Stack:**
+`React` `Tailwind CSS` `Supabase`
+
+**Highlights:**
+- Built responsive financial dashboards.
+- Implemented cloud database integration.
+- Optimized application data fetching.
+
+🔗 GitHub:
+https://github.com/ayushp2563/salary-tracker
+
+🌐 Live Demo:
+https://salarytracker.vercel.app/
+
+---
+
+## 🔗 One Tap Link
+
+A modern social linking platform built with a scalable full-stack architecture.
+
+**Tech Stack:**
+`Next.js` `Shadcn UI` `Supabase`
+
+**Highlights:**
+- Developed modern UI components.
+- Implemented backend-powered link management.
+- Built responsive user experiences.
+
+🔗 GitHub:
+https://github.com/ayushp2563/pdims
+
+🌐 Live Demo:
+https://onetaplink.vercel.app/
+
+---
+
+## 🖥️ Prelude
+
+A native macOS menu bar application that manages calendar reminders and custom meeting alarms.
+
+**Tech Stack:**
+`Swift` `SwiftUI` `EventKit` `macOS SDK`
+
+**Highlights:**
+- Integrated Apple EventKit framework.
+- Built native macOS user experience.
+- Optimized lightweight background processing.
+
+🔗 GitHub:
+https://github.com/ayushp2563/prelude
+
+---
+
+# 🎓 Education
+
+## Master of Science - Computational Sciences
+**Laurentian University | Sudbury, Ontario**
+
+Focus Areas:
+- Artificial Intelligence
+- Machine Learning
+- Data Mining
+- High Performance Computing
+- Computer Vision
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushp2563&show_icons=true&theme=tokyonight" alt="Ayush's GitHub Stats" height="180px" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=ayushp2563&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayushp2563&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-top-langs.vercel.app/api/?username=ayushp2563&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-## 📬 Let's Connect!
-I am always open to discussing full-stack engineering, open-source collaborations, and exciting innovative tech opportunities.
+# 📬 Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/ayushp2563](https://www.linkedin.com/in/ayushp2563)
-* **Portfolio:** [prajapatiayush.vercel.app](https://prajapatiayush.vercel.app/)
-* **Email:** [ayushprajapati2563@gmail.com]
+I am interested in opportunities related to:
+
+- Software Engineering
+- Full-Stack Development
+- AI Engineering
+- Machine Learning Applications
+
+📧 Email: ayushprajapati2563@gmail.com
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/ayushp2563
+
+🔗 Portfolio:
+https://prajapatiayush.vercel.app/
